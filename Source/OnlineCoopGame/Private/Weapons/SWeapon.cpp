@@ -103,8 +103,6 @@ void ASWeapon::Fire()
 
     if (CurrentAmmo <= 0 && !bInfiniteAmmo)
     {
-        //No Ammo sound
-
         return;
     }
 
