@@ -8,7 +8,11 @@ Multiplayer and AI example.
 Commands:
 
 Open Console:     "+" keyboard key
+
 Pause:            pause
+
 Host Game:        open Blockout_p?listen
+
 Join Local Game:  open 127.0.0.1 u open 127.0.0.1:7777
+
 Join Friend Game: open frien.ip.number:7777
