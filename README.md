@@ -5,6 +5,18 @@ Third Person Shooter in C++ and BP in Unreal Engine 4.26.2.
 Multiplayer and AI example.
 
 
+Controls:
+
+WASD: Movement
+
+LMB:      Shot
+
+RMB:      Aim/Zoom
+
+R:        Reload (is not visible, WIP)
+
+SpaceBar: Jump
+
 Commands:
 
 Open Console:     "+" keyboard key
